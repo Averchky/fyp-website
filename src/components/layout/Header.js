@@ -116,7 +116,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <a href="https://drive.google.com/file/d/1JCj62np3Ctb_JET3mtf08ukfO2AAouPz/view" target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>HIDownload</a>
+                        <a href="https://drive.google.com/file/d/1JCj62np3Ctb_JET3mtf08ukfO2AAouPz/view" target="_blank" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Download</a>
                       </li>
                     </ul>}
                 </div>
